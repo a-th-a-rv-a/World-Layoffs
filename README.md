@@ -2,7 +2,7 @@
 
 This project involves cleaning and analyzing the World Layoffs Dataset using SQL. It is structured in two main parts: Data Cleaning and Exploratory Data Analysis (EDA). The dataset tracks layoffs across companies globally, including details such as industry, location, date, stage, and number of employees laid off.
 
-#Data Cleaning
+## Data Cleaning
 
 The cleaning process includes:
 
@@ -27,7 +27,7 @@ Removes rows with no layoff data (total_laid_off and percentage_laid_off both NU
 Schema Finalization: Drops helper columns (like row_num) post-cleaning.
 
 
-#Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Key analyses include:
 
