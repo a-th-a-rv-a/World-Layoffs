@@ -51,7 +51,7 @@ Key analyses include:
 
 ## Dataset Source
 
-This project uses the World Layoffs Dataset, which contains information on global layoffs including company, location, date, industry, funding stage, and more.
+This project uses the layoff.csv dataset, which contains information on global layoffs including company, location, date, industry, funding stage, and more.
 
 ## Outcome
 
